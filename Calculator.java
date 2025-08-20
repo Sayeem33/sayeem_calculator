@@ -6,4 +6,5 @@ public class Calculator {
         if (b == 0) throw new ArithmeticException("Cannot divide by zero");
         return a / b;
     }
+    // Modification from feature/calculator
 }
