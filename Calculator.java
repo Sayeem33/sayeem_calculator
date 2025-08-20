@@ -7,4 +7,5 @@ public class Calculator {
         return a / b;
     }
     // Modification from feature/calculator
+    // Maodification from master
 }
